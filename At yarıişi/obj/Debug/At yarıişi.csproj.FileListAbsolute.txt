@@ -1,0 +1,28 @@
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.exe.config
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At_yarıişi.Form1.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet_Yarışı.Properties.Resources.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csproj.GenerateResource.Cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet Yarıişi.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet Yarıişi.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csprojResolveAssemblyReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.exe.config
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.pdb
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csprojResolveAssemblyReference.cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\obj\Debug\At_yarıişi.Form1.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet_Yarışı.Properties.Resources.resources
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csproj.GenerateResource.Cache
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet Yarıişi.exe
+C:\Users\M.Emin\Desktop\Emin Saygı\Murat Yücedağ\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet Yarıişi.pdb
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.exe.config
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\bin\Debug\Bisiklet Yarıişi.pdb
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csprojAssemblyReference.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At_yarıişi.Form1.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet_Yarışı.Properties.Resources.resources
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csproj.GenerateResource.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\At yarıişi.csproj.CoreCompileInputs.cache
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet Yarıişi.exe
+D:\Dosyalar\Çalışmalarım\Emin Saygı\Ders 10\At yarıişi\At yarıişi\obj\Debug\Bisiklet Yarıişi.pdb
